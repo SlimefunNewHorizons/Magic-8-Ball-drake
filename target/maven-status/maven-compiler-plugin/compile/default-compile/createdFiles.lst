@@ -1,0 +1,11 @@
+com/xmooncorp/magic8ball/implementation/items/Magic8BallItem.class
+com/xmooncorp/magic8ball/implementation/resources/Magic8BallFragmentResource.class
+com/xmooncorp/magic8ball/implementation/resources/Magic8BallFragmentResource$1.class
+com/xmooncorp/magic8ball/utils/LocationUtils.class
+com/xmooncorp/magic8ball/Magic8Ball.class
+com/xmooncorp/magic8ball/implementation/Items.class
+com/xmooncorp/magic8ball/implementation/setup/ResearchSetup.class
+com/xmooncorp/magic8ball/utils/compatibility/VersionedParticle.class
+com/xmooncorp/magic8ball/implementation/setup/ItemGroups.class
+com/xmooncorp/magic8ball/implementation/setup/ItemSetup.class
+com/xmooncorp/magic8ball/core/ConfigBasedLocalization.class
